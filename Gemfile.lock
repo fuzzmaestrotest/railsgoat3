@@ -126,7 +126,7 @@ GEM
     eventmachine (1.2.7)
     execjs (2.7.0)
     ffi (1.11.1)
-    foreman (0.86.0)
+    foreman (0.85.0)
     formatador (0.2.5)
     gherkin (5.1.0)
     globalid (0.4.2)
@@ -215,7 +215,7 @@ GEM
     pry-rails (0.3.9)
       pry (>= 0.10.4)
     public_suffix (4.0.1)
-    puma (4.3.5)
+    puma (4.3.4)
       nio4r (~> 2.0)
     rack (2.2.3)
     rack-livereload (0.3.17)
@@ -323,7 +323,7 @@ GEM
       libv8 (~> 3.16.14.15)
       ref
     thor (0.20.3)
-    thread_safe (0.3.4)
+    thread_safe (0.3.2)
     tilt (2.0.10)
     travis-lint (2.0.0)
       json
